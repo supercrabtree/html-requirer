@@ -1,4 +1,4 @@
-# html-requirer[![Build Status](https://travis-ci.org/supercrabtree/html-requirer.svg?branch=master)](https://travis-ci.org/supercrabtree/html-requirer)
+# html-requirer [![Build Status](https://travis-ci.org/supercrabtree/html-requirer.svg?branch=master)](https://travis-ci.org/supercrabtree/html-requirer)
 
 Allows you to require html into your js as a string for use in templates. Uses
 readFileSync under the hood, so works best in situations performance is not so
