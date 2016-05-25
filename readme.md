@@ -11,8 +11,8 @@ important. i.e. build scripts.
 ### Usage
 
 ```js
-import requireHtml from 'html-requirer';
-import header from '../../templates/header.html';
+const requireHtml = require('html-requirer');
+const header = requireHtml('../../templates/header.html');
 
 const html = `
   <!doctype html>
@@ -22,6 +22,9 @@ const html = `
   </head>
   <body>
     ${header}
+    <section>
+      <p>other stuff</p>
+    </section>
   </body>
   </html>
 `;
