@@ -1,0 +1,23 @@
+{
+  "name": "html-requirer",
+  "version": "0.0.0",
+  "description": "require html files to use as sub templates",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "0.15.0"
+  },
+  "scripts": {
+    "test": "ava",
+    "start": "ava --watch"
+  },
+  "keywords": [
+    "require",
+    "html",
+    "string"
+  ],
+  "author": "George Crabtree <supercrabtree@googlemail.com> (https://github.com/supercrabtree)",
+  "license": "MIT"
+}
