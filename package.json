@@ -2,7 +2,6 @@
   "name": "html-requirer",
   "version": "0.0.3",
   "description": "require html files to use as sub templates",
-  "main": "index.js",
   "files": [
     "index.js"
   ],
