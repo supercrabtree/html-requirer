@@ -2,9 +2,6 @@
   "name": "html-requirer",
   "version": "0.0.6",
   "description": "require html files to use as sub templates",
-  "files": [
-    "index.js"
-  ],
   "main": "index.js",
   "devDependencies": {
     "ava": "0.15.0"
