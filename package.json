@@ -1,6 +1,6 @@
 {
   "name": "html-requirer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "require html files to use as sub templates",
   "main": "index.js",
   "files": [
